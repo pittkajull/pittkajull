@@ -2,6 +2,8 @@
 
 *Frontend Dev · CySec Enthusiast · AI Engine Enthusiast*
 
+![coding gif](https://media.giphy.com/media/CiZ9e5IUPqeVFzc8Mp/giphy.gif)
+
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=pittkajull.pittkajull)](https://github.com/pittkajull)
 &nbsp;
 [![Email](https://img.shields.io/badge/email-muhajiramrullahub%40gmail.com-black?style=flat-square&logo=gmail)](mailto:muhajiramrullahub@gmail.com)
@@ -49,7 +51,7 @@
 ### Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=pittkajull&theme=dracula&hide_border=true&border_radius=8)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pittkajull&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true)](https://github.com/pittkajull)
+
 
 ---
 
