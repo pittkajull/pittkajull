@@ -14,7 +14,7 @@
 
 ```
 🏫  Faculty of Vocational, Brawijaya University — Information Technology
-🌐  Frontend Developer & Cyber Security Enthusiast
+🌐  Frontend Developer · Automation Enthusiast · AI Engine Enthusiast
 🤖  Exploring AI & Machine Learning
 😎  enjoy life & dont be depressed
 ```
