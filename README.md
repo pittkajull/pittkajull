@@ -1,6 +1,6 @@
 # Muhajir Amrullah
 
-*Frontend Dev · CySec Enthusiast · AI Engine Enthusiast*
+*Frontend Dev · Automation Enthusiast · AI Engine Enthusiast *
 
 ![coding gif](https://media.giphy.com/media/CiZ9e5IUPqeVFzc8Mp/giphy.gif)
 
