@@ -68,7 +68,6 @@
 
 <div align="center">
 
-<i>"Simplicity is the soul of efficiency." — Austin Freeman</i>
 
 <br/>
 
