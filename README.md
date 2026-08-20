@@ -63,6 +63,7 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pittkajull/pittkajull/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 ---
 
 <div align="center">
